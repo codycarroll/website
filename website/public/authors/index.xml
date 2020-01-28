@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD candidate in statistics at UC Davis, working with &lt;a href=&#34;https://anson.ucdavis.edu/~mueller/&#34;&gt;Prof. Hans-Georg Müller&lt;/a&gt;. My research involves developing time warping models for multivariate functional data.&lt;/p&gt;
+&lt;p&gt;I am also an experienced statistical consultant and communicator. I have collaborated on applied projects from a wide variety of domains, ranging from veterinary science to mountaineering to neuroimaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alois Kneip</title>
+      <link>/authors/alois-kneip/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/alois-kneip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hans-Georg Müller</title>
+      <link>/authors/hans-georg-muller/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/hans-georg-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
