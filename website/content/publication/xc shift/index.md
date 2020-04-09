@@ -4,7 +4,7 @@ authors:
 - admin
 - Hans-Georg Müller
 - Alois Kneip
-date: "2015-09-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,12 +16,12 @@ publication: ''
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2020-04-01T00:00:00Z"
+slides: 
 summary: 
-tags:
+tags: 
 - Source Themes
-title: Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves
+title: Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves (Under Review)
 url_code: ""
 url_dataset: ""
 url_pdf: https://arxiv.org/pdf/1811.01429
